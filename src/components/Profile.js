@@ -44,7 +44,7 @@ function Profile() {
       <div className={style.card} style={BgCard}>
         <img src={icon} alt="Cly" className={style.profileImg} />
         <div className={style.uid}>
-          <div className={style.uidNum}>UID: 083853558913</div>
+          <div className={style.uidNum}>UID:083853558913</div>
         </div>
         <div className={style.copy}>
           <button
