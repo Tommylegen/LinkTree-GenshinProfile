@@ -18,7 +18,7 @@ function App() {
               alt="profile"
               className="profileImg"
             />
-            <h1 className="name">Fajar</h1>
+            <h1 className="name">Haikal</h1>
             <div className="sign">
               Just a{"  "}
               <span className="typewriter">
@@ -35,31 +35,31 @@ function App() {
           <Profile />
           <Card />
           <div className="mt-16">
-            <a href="https://instagram.com/fajar.cly" className="social">
+            <a href="https://instagram.com/hai_kalgnz" className="social">
               <BsInstagram />
               Instagram
             </a>
           </div>
           <div className="mt-16">
-            <a href="https://fb.com/fajar.clyy" className="social">
+            <a href="https://www.facebook.com/profile.php?id=100088446745458" className="social">
               <FaFacebookSquare />
               Facebook
             </a>
           </div>
           <div className="mt-16">
-            <a href="https://tiktok.com/@fajar.cly" className="social">
+            <a href="https://tiktok.com/@kalhavertzz" className="social">
               <FaTiktok />
               TikTok
             </a>
           </div>
           <div className="mt-16">
-            <a href="https://twitter.com/siFajar277" className="social">
+            <a href="gaada" className="social">
               <BsTwitter />
               Twitter
             </a>
           </div>
           <div className="mt-16">
-            <a href="https://github.com/FajarCly" className="social">
+            <a href="https://github.com/Tommylegen" className="social">
               <BsGithub />
               Github
             </a>
