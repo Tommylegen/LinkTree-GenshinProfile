@@ -31,7 +31,7 @@ function Profile() {
   const [isCopied, setIsCopied] = useState(false);
 
   const handleCopyClick = () => {
-    navigator.clipboard.writeText("857067560");
+    navigator.clipboard.writeText("083853558913");
     setIsCopied(true);
 
     setTimeout(() => {
@@ -44,7 +44,7 @@ function Profile() {
       <div className={style.card} style={BgCard}>
         <img src={icon} alt="Cly" className={style.profileImg} />
         <div className={style.uid}>
-          <div className={style.uidNum}>UID: 857067560</div>
+          <div className={style.uidNum}>UID: 083853558913</div>
         </div>
         <div className={style.copy}>
           <button
